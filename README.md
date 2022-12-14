@@ -1,4 +1,4 @@
-### Hi there 👋
+### 배울 것이 아직 너무 많지만, 그래서 즐겁고 행복합니다!
 
 <!--
 **Minhyeong-S/Minhyeong-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
