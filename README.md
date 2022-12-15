@@ -2,8 +2,13 @@
  -->
 <div align=center><h1>Song Min Hyeong 😉</h1></div>
 
-<div align=center>
+<div align=center><span>배울 것이 아직 너무 많지만, 그래서 하루하루가 즐거운 백엔드 새싹입니다♥️ </span></div>
+
+
+<div align=center> 
   
+ 
+ 
   <br><br>
   
 ### 🌱 I’m currently learning ...  
